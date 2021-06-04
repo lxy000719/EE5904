@@ -1,3 +1,3 @@
 # EE5904
 
-NUS EE5904 Homeworks
+NUS EE5904 Neural Networks Homeworks
